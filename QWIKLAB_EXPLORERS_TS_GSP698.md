@@ -5,7 +5,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-export REGION=
+export LOCATION=
 ```
 ```
 #!/bin/bash
